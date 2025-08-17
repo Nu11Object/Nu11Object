@@ -39,7 +39,7 @@ I'm an Android developer focused on creating modern, efficient mobile applicatio
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top">
+<td width="25%" valign="top">
   
 🎨 **UI & Design**<br>
 
@@ -65,15 +65,8 @@ I'm an Android developer focused on creating modern, efficient mobile applicatio
 - Dagger2
 - Hilt
 
----
-
-⚡ **Threading & Concurrency**<br>
-
-- Coroutines
-- Flow
-
 </td>
-<td width="33%" valign="top">
+<td width="25%" valign="top">
   
 📱 **Core Android**<br>
 
@@ -94,6 +87,14 @@ I'm an Android developer focused on creating modern, efficient mobile applicatio
 
 ---
 
+⚡ **Threading & Concurrency**<br>
+
+- Coroutines
+- Flow
+
+</td>
+<td width="25%" valign="top">
+  
 🌐 **Networking & API**<br>
 
 - Retrofit2
@@ -108,17 +109,17 @@ I'm an Android developer focused on creating modern, efficient mobile applicatio
 - Parcelize
 - Kotlinx Serialization
 
-</td>
-<td width="33%" valign="top">
-  
+---
+
 🖼️ **Image & Media**<br>
 
 - Picasso
 - Coil
 - Lottie
 
----
-
+</td>
+<td width="25%" valign="top">
+  
 🏛️ **Architecture & Patterns**<br>
 
 - MVVM
@@ -146,3 +147,5 @@ I'm an Android developer focused on creating modern, efficient mobile applicatio
 </td>
 </tr>
 </table>
+
+</details>
