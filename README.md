@@ -25,12 +25,12 @@
 ╚═╝  ╚═══╝  ╚═════╝   ╚═╝  ╚═╝  ╚═════╝  ╚═════╝   ╚════╝  ╚══════╝  ╚═════╝    ╚═╝
 ```
 
-![Android Dev](https://img.shields.io/badge/Android_Dev-000.svg?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Android Dev](https://img.shields.io/badge/Android_Dev-000.svg?style=for-the-badge&logo=android&logoColor=white)
 ![Designer](https://img.shields.io/badge/Designer-000.svg?style=for-the-badge&logo=materialdesignicons&logoColor=white)
 ![Content Maker](https://img.shields.io/badge/Content_Maker-000.svg?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### Hi there!
-I'm an Android developer focused on creating modern, efficient mobile applications using the latest technologies and best practices. Here you'll find my projects showcasing clean architecture, modern UI design, and innovative solutions for mobile development challenges.
+I'm an Android developer focused on creating modern, efficient mobile applications using the latest technologies and best practices. Here you'll find my projects showcasing clean architecture and modern UI design.
 
 ---
 <details>
@@ -64,6 +64,7 @@ I'm an Android developer focused on creating modern, efficient mobile applicatio
 
 - Dagger2
 - Hilt
+- Koin
 
 </td>
 <td width="25%" valign="top">
