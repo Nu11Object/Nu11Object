@@ -121,6 +121,7 @@ I'm an Android developer focused on creating modern, efficient mobile applicatio
 🏛️ **Architecture & Patterns**<br>
 
 - MVVM
+- MVI
 - Clean Architecture
 - Repository Pattern
 - Single Activity Pattern
